@@ -8,8 +8,9 @@ Description:
 License: CC0
 Encoding: UTF-8
 LazyData: true
-Imports: 
+Imports:
     shiny
 RoxygenNote: 6.1.1
-Suggests: 
-    testthat
+Suggests:
+    testthat,
+    covr
